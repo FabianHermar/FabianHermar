@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### <h1> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianhmzz&show_icons=true&theme=radical)
 <!--
 **FabianHMzz/FabianHMzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
