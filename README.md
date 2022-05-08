@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.php</code>, <code>.py</code> <br>
 - 🌍 I'm mostly active within the Web Delevolpment Community <br>
 - 📫 How to reach me: <a href="mailto:contactofabianmartinez@gmail.com">contactofabianmartinez@gmail.com</a> <br>
-- ⚡ Fun fact: I'm a big fan to read 📚, write ✍, learn new things 🧠 but i'm a huge fan to code my ideas in new projects 💻<>
+- ⚡ Fun fact: I'm a big fan to read 📚, write ✍, learn 🧠 but i'm a huge fan to code my ideas in new projects 💻<>
 
 <hr>
 
