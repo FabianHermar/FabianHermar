@@ -1,7 +1,10 @@
 ### <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
 <p align="center">I love everything that has to do with development technologies, but above all I love learning new things 🤓</p>
 <p align="center">I am currently a student of the Multiplatform Software Development career 💻</p>
-- 🌱 I’m currently learning <code>.php</code>, <code>.js</code>
+- 🌱 I’m currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.php</code>, <code>.py</code> <br>
+- 🌍 I'm mostly active within the Web Delevolpment Community <br>
+- 📫 How to reach me: [](contactofabianmartinez@gmail.com)
+
 
 
 
