@@ -37,16 +37,16 @@
 <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/95977433/167311880-edbc7f8f-66ab-406c-9c20-9f12763ac7dc.png" alt="Angular" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
 <a href="https://visualstudio.microsoft.com/es/"><img src="https://user-images.githubusercontent.com/95977433/167311831-068ce061-72ff-4571-b4ac-12e09b6a1b00.png" alt="Visual Studio" width="65" heigth="65" style="max-width= 10 0%;"></a>
-&nbsp; &nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167314596-f8574a81-6ad9-4f48-ab27-7ee01b17ff5c.png" alt="Visual Studio Code" width="50" heigth="50" style="max-width= 15 0%;"></a>
-&nbsp; &nbsp;
-<a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/95977433/167313651-24b414e7-b0fb-4ea5-b41b-8903688bf160.png" alt="MySQL" width="50" heigth="50" style="max-width= 15 0%;"></a>
-&nbsp; &nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/95977433/167314530-7fe173a2-37cb-4759-b1bb-4ccdd22c7449.png" alt="TypeScript" width="50" heigth="50" style="max-width= 15 0%;"></a>
-&nbsp; &nbsp;
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167314622-8981ee27-e874-419c-b297-33d2aaca5eae.png" alt="Python" width="50" heigth="50" style="max-width= 15 0%;"></a>
-&nbsp; &nbsp;
-<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/95977433/167314685-488930ae-4498-477b-8d62-0d37e55a8e3a.png" alt="Bootstrap" width="50" heigth="50" style="max-width= 15 0%;"></a>
+&nbsp; 
+<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167314596-f8574a81-6ad9-4f48-ab27-7ee01b17ff5c.png" alt="Visual Studio Code" width="65" heigth="65" style="max-width= 15 0%;"></a>
+&nbsp; 
+<a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/95977433/167313651-24b414e7-b0fb-4ea5-b41b-8903688bf160.png" alt="MySQL" width="65" heigth="65" style="max-width= 15 0%;"></a>
+&nbsp; 
+<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/95977433/167314530-7fe173a2-37cb-4759-b1bb-4ccdd22c7449.png" alt="TypeScript" width="65" heigth="65" style="max-width= 15 0%;"></a>
+&nbsp; 
+<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167314622-8981ee27-e874-419c-b297-33d2aaca5eae.png" alt="Python" width="65" heigth="65" style="max-width= 15 0%;"></a>
+&nbsp; 
+<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/95977433/167314685-488930ae-4498-477b-8d62-0d37e55a8e3a.png" alt="Bootstrap" width="65" heigth="65" style="max-width= 15 0%;"></a>
 
 <hr>
 
