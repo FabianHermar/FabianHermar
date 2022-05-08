@@ -32,21 +32,23 @@
 &nbsp;
 <a href="https://www.php.net/manual/es/intro-whatis.php"><img src="https://user-images.githubusercontent.com/95977433/167311851-46a5b81a-1aeb-48d2-9610-ae5f0478eb68.png" alt="PHP" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
+<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/95977433/167320628-47a30351-b07d-41d2-94c9-a304b9166d6a.png" alt="NodeJS" width="65" heigth="65" style="max-width= 10 0%;"></a>
+&nbsp;
 <a href="https://es.reactjs.org/"><img src="https://user-images.githubusercontent.com/95977433/167311868-4295f877-3cd7-4d17-bb0e-8c65dc5457d7.png" alt="React" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
 <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/95977433/167311880-edbc7f8f-66ab-406c-9c20-9f12763ac7dc.png" alt="Angular" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
 <a href="https://visualstudio.microsoft.com/es/"><img src="https://user-images.githubusercontent.com/95977433/167311831-068ce061-72ff-4571-b4ac-12e09b6a1b00.png" alt="Visual Studio" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
-<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167314596-f8574a81-6ad9-4f48-ab27-7ee01b17ff5c.png" alt="Visual Studio Code" width="65" heigth="65" style="max-width= 15 0%;"></a>
+<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167320327-de180d30-9f27-47a3-b14c-9aa65ef24a29.png" alt="Visual Studio Code" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
-<a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/95977433/167313651-24b414e7-b0fb-4ea5-b41b-8903688bf160.png" alt="MySQL" width="65" heigth="65" style="max-width= 15 0%;"></a>
+<a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/95977433/167320435-ff5b854a-c84a-483e-88fd-7c4affeec3df.png" alt="MySQL" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
-<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/95977433/167314530-7fe173a2-37cb-4759-b1bb-4ccdd22c7449.png" alt="TypeScript" width="65" heigth="65" style="max-width= 15 0%;"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/95977433/167320573-648e6fb0-2d0d-485e-9c66-b3acc52a6f4e.png" alt="TypeScript" width="65" heigth="65" style="max-width= 15 0%;"></a>
 &nbsp; 
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167314622-8981ee27-e874-419c-b297-33d2aaca5eae.png" alt="Python" width="65" heigth="65" style="max-width= 15 0%;"></a>
+<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167320603-caaa2d6a-1624-4bb7-8f1b-84d4a5523828.png" alt="Python" width="65" heigth="65" style="max-width= 15 0%;"></a>
 &nbsp; 
-<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/95977433/167314685-488930ae-4498-477b-8d62-0d37e55a8e3a.png" alt="Bootstrap" width="65" heigth="65" style="max-width= 15 0%;"></a>
+<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/95977433/167320614-276b8ecb-f65d-4c14-bfe2-3bf764552068.png" alt="Bootstrap" width="65" heigth="65" style="max-width= 15 0%;"></a>
 
 <hr>
 
