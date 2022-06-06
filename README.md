@@ -41,6 +41,10 @@
 &nbsp; 
 <a href="https://es.reactjs.org/"><img src="https://user-images.githubusercontent.com/95977433/167311868-4295f877-3cd7-4d17-bb0e-8c65dc5457d7.png" alt="React" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
+ <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/95977433/167311880-edbc7f8f-66ab-406c-9c20-9f12763ac7dc.png" alt="Angular" width="65" heigth="65" style="max-width= 10 0%;"></a>
+&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/95977433/167320573-648e6fb0-2d0d-485e-9c66-b3acc52a6f4e.png" alt="TypeScript" width="65" heigth="65" style="max-width= 15 0%;"></a>
+&nbsp;
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167320603-caaa2d6a-1624-4bb7-8f1b-84d4a5523828.png" alt="Python" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
 <a href="https://visualstudio.microsoft.com/es/"><img src="https://user-images.githubusercontent.com/95977433/167311831-068ce061-72ff-4571-b4ac-12e09b6a1b00.png" alt="Visual Studio" width="65" heigth="65" style="max-width= 10 0%;"></a>
