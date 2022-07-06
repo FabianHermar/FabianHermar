@@ -22,6 +22,7 @@
 <a href="https://discord.gg/gdRmAa5xHU"><img src="https://user-images.githubusercontent.com/95977433/167311923-5604170f-063d-4981-bdc3-3ff2195b2d17.png" alt="Discord" width="50" heigth="50" style="max-width= 10 0%;"></a>
 
 <hr>
+ 
 <!-- Lenguajes and Tools -->
 
 <h3 align="left">Languages and Tools that I use, have used and continue to learn:</h3>
