@@ -2,7 +2,7 @@
 <p align="center">I love everything that has to do with development technologies, but above all I love learning new things 🤓</p>
 <p align="center">I am currently a student of the Multiplatform Software Development career 💻</p>
  <ul>
-  <li>🌱 I’m currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.php</code>, <code>.py</code> <br></li>
+  <li>🌱 I’m currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.php</code>, <code>.astro</code> <br></li>
   <li>🌍 I'm mostly active within the Web Delevolpment Community <br></li>
   <li>📫 How to reach me: <a href="mailto:contactofabianmartinez@gmail.com">contactofabianmartinez@gmail.com</a> <br></li>
   <li>⚡ Fun fact: I'm a big fan to read 📚, write ✍, learn 🧠 but i'm a huge fan to code my ideas in new projects 💻<></li>
