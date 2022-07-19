@@ -43,8 +43,6 @@
 &nbsp;
  <a href="https://astro.build/"><img src="https://user-images.githubusercontent.com/95977433/179270756-a5574845-fbf3-49bd-89b8-609d6aca888f.png" alt="Astro" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167320603-caaa2d6a-1624-4bb7-8f1b-84d4a5523828.png" alt="Python" width="65" heigth="65" style="max-width= 10 0%;"></a>
-&nbsp; 
 <a href="https://visualstudio.microsoft.com/es/"><img src="https://user-images.githubusercontent.com/95977433/167311831-068ce061-72ff-4571-b4ac-12e09b6a1b00.png" alt="Visual Studio" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167320327-de180d30-9f27-47a3-b14c-9aa65ef24a29.png" alt="Visual Studio Code" width="65" heigth="65" style="max-width= 10 0%;"></a>
@@ -63,6 +61,9 @@
 
 <!--
 **FabianHMzz/FabianHMzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167320603-caaa2d6a-1624-4bb7-8f1b-84d4a5523828.png" alt="Python" width="65" heigth="65" style="max-width= 10 0%;"></a>
+&nbsp; 
 
 Here are some ideas to get you started:
 
