@@ -47,7 +47,7 @@
 &nbsp; 
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167320327-de180d30-9f27-47a3-b14c-9aa65ef24a29.png" alt="Visual Studio Code" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
-<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/95977433/167320614-276b8ecb-f65d-4c14-bfe2-3bf764552068.png" alt="Bootstrap" width="65" heigth="65" style="max-width= 10 0%;"></a>
+<a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/95977433/198212579-013ad273-cfc8-4714-b1cb-07396b501021.png" alt="TailwildCSS" width="65" heigth="65" style="max-width= 10 0%;"></a>
 
 <hr>
 
