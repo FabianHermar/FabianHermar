@@ -41,13 +41,13 @@
 &nbsp; 
 <a href="https://es.reactjs.org/"><img src="https://user-images.githubusercontent.com/95977433/167311868-4295f877-3cd7-4d17-bb0e-8c65dc5457d7.png" alt="React" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
- <a href="https://astro.build/"><img src="https://user-images.githubusercontent.com/95977433/179270756-a5574845-fbf3-49bd-89b8-609d6aca888f.png" alt="Astro" width="65" heigth="65" style="max-width= 10 0%;"></a>
+<a href="https://astro.build/"><img src="https://user-images.githubusercontent.com/95977433/179270756-a5574845-fbf3-49bd-89b8-609d6aca888f.png" alt="Astro" width="65" heigth="65" style="max-width= 10 0%;"></a>
+&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/95977433/198212579-013ad273-cfc8-4714-b1cb-07396b501021.png" alt="TailwildCSS" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
 <a href="https://visualstudio.microsoft.com/es/"><img src="https://user-images.githubusercontent.com/95977433/167311831-068ce061-72ff-4571-b4ac-12e09b6a1b00.png" alt="Visual Studio" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/95977433/167320327-de180d30-9f27-47a3-b14c-9aa65ef24a29.png" alt="Visual Studio Code" width="65" heigth="65" style="max-width= 10 0%;"></a>
-&nbsp; 
-<a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/95977433/198212579-013ad273-cfc8-4714-b1cb-07396b501021.png" alt="TailwildCSS" width="65" heigth="65" style="max-width= 10 0%;"></a>
 
 <hr>
 
