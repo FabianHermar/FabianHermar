@@ -56,10 +56,10 @@
 <h3 align="left">My stats and most used lenguages:</h3>
 
 
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz" align = "center"/>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz" align = ""/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="FabianHMzz" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="FabianHMzz" align = ""/>
   </p>
 
 <!--
