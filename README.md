@@ -62,7 +62,7 @@
   </p>
 
 <!--
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FabianHMz)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FabianHMz)
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz" align = ""/>
     
