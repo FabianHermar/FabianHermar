@@ -13,7 +13,7 @@
 
 <!-- Connect with me -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👨‍💻 Connect with me:</h3>
 
 <a href="https://www.twitter.com/FabianHMz_"><img src="https://user-images.githubusercontent.com/95977433/167311941-e7278fd9-15f9-49a5-addc-4badff1a3835.png" alt="Twitter" width="50" heigth="50" style="max-width= 10 0%;"></a>
 &nbsp; &nbsp;
@@ -25,7 +25,7 @@
  
 <!-- Lenguajes and Tools -->
 
-<h3 align="left">Languages and Tools that I use, have used and continue to learn:</h3>
+<h3 align="left">🎖 Languages and Tools that I use, have used and continue to learn:</h3>
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://user-images.githubusercontent.com/95977433/167311674-c117ceff-99f0-4bcd-9e9b-fffd27358709.png" alt="HTML5" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp;
