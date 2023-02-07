@@ -58,19 +58,11 @@
   <p align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="FabianHMzz"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHMzz"/>
   </p>
 
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FabianHMz)
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz" align = ""/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="FabianHMzz" align = ""/>
-  </p>
-
-<!--
-**FabianHMzz/FabianHMzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/95977433/167320603-caaa2d6a-1624-4bb7-8f1b-84d4a5523828.png" alt="Python" width="65" heigth="65" style="max-width= 10 0%;"></a>
 &nbsp; 
