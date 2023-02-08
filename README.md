@@ -4,7 +4,7 @@
  <ul>
   <li>🌱 I’m currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.astro</code>, <code>.jsx</code><br></li>
   <li>🌍 I'm mostly active within the Web Development Community <br></li>
-  <li>📫 How to reach me: <a href="mailto:fabian@visual-tradex.com">fabian@visual-tradex.com</a> <br></li>
+  <li>📫 How to reach me: <a href="mailto:fabian@visual-tradex.com">fabian@visual-tradex.com</a></li> or <a href="mailto:contactofabianmartinez@gmail.com">contactofabianmartinez@gmail.com</a> <br></li>
   <li>⚡ Fun fact: I'm a big fan to read 📚, write ✍, learn 🧠 but i'm a huge fan to code my ideas in new projects 💻<></li>
 </ul
 
