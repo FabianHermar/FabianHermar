@@ -1,4 +1,4 @@
-## <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
+<h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
 <p align="center">I love everything that has to do with development technologies, but above all I love learning new things 🤓</p>
 <p align="center">I am currently a student of the Software Development and Management Engineering 💻</p>
  <ul>
