@@ -64,9 +64,9 @@
  
  <h3>🎶 Spotify Music Player</h3>
  <div align="center">
-  <img height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=wrht4v5eyaxpxykt116qotkrp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=deb887&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
+  <img  src="https://spotify-github-profile.vercel.app/api/view?uid=wrht4v5eyaxpxykt116qotkrp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=deb887" />
  </div>
- 
+
 
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FabianHMz)
