@@ -64,7 +64,7 @@
  
  <h3>🎶 Spotify Music Player</h3>
  <div align="center">
-  <img  src="https://spotify-github-profile.vercel.app/api/view?uid=wrht4v5eyaxpxykt116qotkrp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=deb887" />
+  <img  src="https://spotify-github-profile.vercel.app/api/view?uid=wrht4v5eyaxpxykt116qotkrp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=deb887&bar_color_cover=false" />
  </div>
 
 
