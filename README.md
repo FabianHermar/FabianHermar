@@ -59,6 +59,14 @@
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHMzz"/>
   </p>
+ 
+ ---
+ 
+ <h3>🎶 Spotify Music Player</h3>
+ <div align="center">
+  <img height="160em" src="https://spotify-github-profile.vercel.app/api/view?uid=wrht4v5eyaxpxykt116qotkrp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=8b53d0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
+ </div>
+ 
 
 <!--
 [![Buy Me a Coffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FabianHMz)
