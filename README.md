@@ -1,6 +1,10 @@
-<img height='600em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/top-wave.png' />
+<img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-top.png' />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8A23FD&width=435&lines=Frontend+Developer;Founder+%26+CEO+of+Boxode;Stop+talking+and+start+innovating)](https://git.io/typing-svg)
+<div align='center'>
+ <h3>Fabian Herrera Martinez</h3>
+<img height='70em' src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8A23FD&width=435&lines=Frontend+Dev+%26+Software+Engineer;Founder+%26+CEO+of+Boxode;Stop+talking+and+start+innovating" />
+ 
+</div>
 
 <!--
 <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
