@@ -1,4 +1,4 @@
-<img height='700em' src='https://github.com/FabianHMzz/FabianHMzz/blob/main/assets/wave-bottom.png' />
+<img height='700em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/top-wave.png' />
 
 <!--
 <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
