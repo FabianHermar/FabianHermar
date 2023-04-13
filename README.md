@@ -12,6 +12,7 @@
  <h2>About Me </h2>
  <div>
   <p>I'm Currently a student of the Software Development and Management Engineering. Since I was little, I always dreamed of being able to become a great software developer, as well as being able to found a company focused on it, gradually expanding throughout the world.</p>
+  <p>Now after a long time, I have been preparing, studying and fighting hard to achieve what I have always longed for. Now one of those small dreams has come true and it is to create a small software development company, it only remains to build that dream beyond my expectations.</p>
  </div>
 </section>
 
