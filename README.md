@@ -2,7 +2,7 @@
 
 <div align='center'>
  <h3>Fabian Herrera Martinez</h3>
-<img height='70em' src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8A23FD&width=435&lines=Frontend+Dev+%26+Software+Engineer;Founder+%26+CEO+of+Boxode;Stop+talking+and+start+innovating" />
+<img height='70em' src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+Software+Engineer;Founder+%26+CEO+of+Boxode;Stop+talking+and+start+innovating" />
  
  <p>Creating a new readme profile :)</p>
  
