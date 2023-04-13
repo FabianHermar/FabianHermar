@@ -11,7 +11,7 @@
 <section>
  <h2>About Me </h2>
  <div>
-  <p>I'm Currently a student of the Software Development and Management Engineering. Since I was little, I always dreamed of being able to become a great software developer, as well as being able to found a company focused on it, gradually expanding throughout the world.</p>
+  <p>I'm Currently a student of the Software Development and Management Engineering. Since I was little, I always dreamed of being able to become a great software developer, as well as being able to found a company focused on it, gradually expanding throughout the world. And now I'm fulfilling what I've always been dreaming of.</p>
   <p>Do you want to know a little more about my life and my timeline? Here I leave a link so you can know a little more about me.</p>
   <p align='center'><a href=''>About me (EN)</a> | <a href=''>About me (ES)</a></p>
  </div>
