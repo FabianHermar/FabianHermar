@@ -8,6 +8,8 @@
  
 </div>
 
+<img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-bottom.png' />
+
 <!--
 <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
 <p align="center">I love everything that has to do with development technologies, but above all I love learning new things 🤓</p>
