@@ -4,9 +4,16 @@
  <h3>Fabian Herrera Martinez</h3>
 <img height='70em' src="https://readme-typing-svg.demolab.com?font=Questrial&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+Software+Engineer;Founder+%26+CEO+of+Boxode;Stop+talking+and+start+innovating" />
  
- <p>Creating a new readme profile :)</p>
+ <p>Developing my logical and creative skills in the world of web and software development.</p>
  
 </div>
+
+<section>
+ <h2>About Me </h2>
+ <div>
+   
+ </div>
+</section>
 
 <img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-bottom.png' />
 
