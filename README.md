@@ -1,5 +1,7 @@
 <img height='600em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/top-wave.png' />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8A23FD&width=435&lines=Frontend+Developer;Founder+%26+CEO+of+Boxode;Stop+talking+and+start+innovating)](https://git.io/typing-svg)
+
 <!--
 <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
 <p align="center">I love everything that has to do with development technologies, but above all I love learning new things 🤓</p>
