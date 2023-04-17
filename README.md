@@ -13,7 +13,7 @@
  <div>
   <p>I'm Currently a student of the Software Development and Management Engineering. I love everything that has do with development technologies. I'm Currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.ts</code>, <code>.astro</code>, <code>.jsx</code> and I'm mostly active within the Web Development Community ❤️</p>
   <p>Do you want to know a little more about my life and my timeline? Here I leave a link so you can know a little more about me.</p>
-  <p align='center'><a href=''>About me (EN)</a> | <a href=''>About me (ES)</a></p>
+  <p align='center'><a href=''>About me (EN)</a> | <a href='https://github.com/FabianHMzz/FabianHMzz/blob/main/aboutme_es.md'>About me (ES)</a></p>
  </div>
 </section>
 
