@@ -21,11 +21,11 @@
  <h2>Featured Projects ✨</h2>
  <p align='center'>
   <a href='https://github.com/FabianHMzz/all-templates'>
-   <img height='150em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=all-templates&theme=dracula' alt='' />
+   <img height='110em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=all-templates&theme=dracula' alt='' />
   </a>
   &nbsp;
   <a href='https://github.com/Boxode/Boxode'>
-   <img height='150em' src='https://github-readme-stats.vercel.app/api/pin/?username=boxode&repo=boxode&theme=dracula' alt='' />
+   <img height='110em' src='https://github-readme-stats.vercel.app/api/pin/?username=boxode&repo=boxode&theme=dracula' alt='' />
   </a>
  </p>
 </section>
