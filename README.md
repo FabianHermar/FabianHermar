@@ -27,9 +27,11 @@
   <a href='https://github.com/Boxode/Boxode'>
    <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=boxode&repo=boxode&theme=dracula' alt='' />
   </a>
-    <a href='https://github.com/FabianHMzz/readme-components'>
+  <div align='center'>
+  <a href='https://github.com/FabianHMzz/readme-components'>
    <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=readme-components&theme=dracula' alt='' />
   </a>
+ </div>
  </p>
 </section>
 
