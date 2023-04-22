@@ -35,6 +35,10 @@
  </p>
 </section>
 
+<section>
+ <h2>Technologies 🧪</h2>
+</section>
+
 <img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-bottom.png' />
 
 <!--
