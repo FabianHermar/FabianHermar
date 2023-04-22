@@ -39,6 +39,15 @@
  <h2>Technologies 🧪</h2>
 </section>
 
+<section>
+ <h2>Statistics 📊</h2>
+   <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz"/>
+    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHMzz"/>
+  </p>
+</section>
+
 <img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-bottom.png' />
 
 <!--
