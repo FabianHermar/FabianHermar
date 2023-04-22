@@ -32,7 +32,7 @@
    <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=readme-components&theme=dracula' alt='' />
   </a>
   <a href='https://github.com/FabianHMzz/bsvg'>
-   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=bsv&theme=dracula' alt='' />
+   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=bsvg&theme=dracula' alt='' />
   </a>
  </div>
  </p>
