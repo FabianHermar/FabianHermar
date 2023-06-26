@@ -10,6 +10,7 @@
 
 <section>
  <h2>About Me 👨‍💻</h2>
+ <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge&color=bd925a" />
  <div>
   <p>I'm Currently a student of the Software Development and Management Engineering. I love everything that has do with development technologies. I'm Currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.ts</code>, <code>.astro</code>, <code>.jsx</code> and I'm mostly active within the Web Development Community ❤️</p>
   <p>Do you want to know a little more about my life and my timeline? Here I leave a link so you can know a little more about me.</p>
