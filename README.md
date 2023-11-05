@@ -33,8 +33,8 @@
    <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=readme-components&theme=dracula' alt='' />
   </a>
    &nbsp;
-  <a href='https://github.com/Boxode/neoicons'>
-   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=boxode&repo=neoicons&theme=dracula' alt='' />
+  <a href='https://github.com/Boxode/windui'>
+   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=boxode&repo=windui&theme=dracula' alt='' />
   </a>
  </div>
  </p>
