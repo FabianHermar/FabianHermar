@@ -1,4 +1,4 @@
-<img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-top.png' />
+<img height='100em' src='https://raw.githubusercontent.com/FabianHermar/FabianHermar/main/assets/wave-top.png' />
 
 <div align='center'>
  <h3>Fabian Herrera Martinez</h3>
@@ -10,27 +10,27 @@
 
 <section>
  <h2>About Me 👨‍💻</h2>
- <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge&color=bd925a" />
+ <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a" />
  <div>
   <p>I'm Currently a student of the Software Development and Management Engineering. I love everything that has do with development technologies. I'm Currently learning <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.ts</code>, <code>.astro</code>, <code>.jsx</code> and I'm mostly active within the Web Development Community ❤️</p>
   <p>Do you want to know a little more about my life and my timeline? Here I leave a link so you can know a little more about me.</p>
-  <p align='center'><a href='https://github.com/FabianHMzz/FabianHMzz/blob/main/aboutme.md'>About me (EN)</a> | <a href='https://github.com/FabianHMzz/FabianHMzz/blob/main/aboutme_es.md'>About me (ES)</a></p>
+  <p align='center'><a href='https://github.com/FabianHermar/FabianHermar/blob/main/aboutme.md'>About me (EN)</a> | <a href='https://github.com/FabianHermar/FabianHermar/blob/main/aboutme_es.md'>About me (ES)</a></p>
  </div>
 </section>
 
 <section>
  <h2>Featured Projects ✨</h2>
  <p align='center'>
-  <a href='https://github.com/FabianHMzz/all-templates'>
-   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=all-templates&theme=dracula' alt='' />
+  <a href='https://github.com/FabianHermar/all-templates'>
+   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=FabianHermar&repo=all-templates&theme=dracula' alt='' />
   </a>
   &nbsp;
   <a href='https://github.com/Boxode/Boxode'>
    <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=boxode&repo=boxode&theme=dracula' alt='' />
   </a>
   <div align='center'>
-  <a href='https://github.com/FabianHMzz/readme-components'>
-   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=fabianhmzz&repo=readme-components&theme=dracula' alt='' />
+  <a href='https://github.com/FabianHermar/readme-components'>
+   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=FabianHermar&repo=readme-components&theme=dracula' alt='' />
   </a>
    &nbsp;
   <a href='https://github.com/Boxode/windui'>
@@ -50,13 +50,13 @@
 <section>
  <h2>Statistics 📊</h2>
    <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHermar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHermar"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHMzz"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHermar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHermar"/>
   </p>
 </section>
 
-<img height='100em' src='https://raw.githubusercontent.com/FabianHMzz/FabianHMzz/main/assets/wave-bottom.png' />
+<img height='100em' src='https://raw.githubusercontent.com/FabianHermar/FabianHermar/main/assets/wave-bottom.png' />
 
 <!--
 <h1 align="center"> Hey, I'm Fabian Herrera Martinez! 👋 </h1>
@@ -67,7 +67,7 @@
   <li>🌍 I'm mostly active within the Web Development Community <br></li>
   <li>📫 How to reach me: <a href="mailto:fabian@boxode.org">fabian@boxode.org</a> or <a href="mailto:contactofabianmartinez@gmail.com">contactofabianmartinez@gmail.com</a> <br></li>
   <li>⚡ Fun fact: I'm a big fan to read 📚, write ✍, learn 🧠 but i'm a huge fan to code my ideas in new projects 💻<></li>
- <li>👀 <a><img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge&color=bd925a"></a> </li>
+ <li>👀 <a><img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a"></a> </li>
 </ul
 <hr>
  
@@ -118,9 +118,9 @@
 <h3 align="left">⚡ My stats and most used lenguages:</h3>
  
   <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHMzz&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHMzz"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHermar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHermar"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHMzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHMzz"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHermar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHermar"/>
   </p>
  
  ---
