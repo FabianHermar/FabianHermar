@@ -1,7 +1,7 @@
 <img height='100em' src='https://raw.githubusercontent.com/FabianHermar/FabianHermar/main/assets/wave-top.png' />
 
 <div align='center'>
- <h3>Fabian Herrera Martinez</h3>1
+ <h3>Fabian Herrera Martinez</h3>
 <img height='70em' src="https://readme-typing-svg.demolab.com?font=Questrial&weight=600&size=16&pause=1000&color=B163F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+Software+Engineer;Stop+talking+and+start+innovating" />
  
  <p>Developing my logical and creative skills in the world of web and software development.</p>
