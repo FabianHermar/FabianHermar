@@ -21,7 +21,7 @@
 <section>
  <h2>Featured Projects ✨</h2>
  <p align='center'>
-  <a href='https://github.com/FabianHermar/all-templates'>
+  <a href='https://github.com/FabianHermar/fabianh.dev'>
    <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=FabianHermar&repo=all-templates&theme=dracula' alt='' />
   </a>
   &nbsp;
