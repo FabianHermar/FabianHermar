@@ -22,7 +22,7 @@
  <h2>Featured Projects ✨</h2>
  <p align='center'>
   <a href='https://github.com/FabianHermar/fabianh.dev'>
-   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=FabianHermar&repo=all-templates&theme=dracula' alt='' />
+   <img height='130em' src='https://github-readme-stats.vercel.app/api/pin/?username=FabianHermar&repo=fabianh.dev&theme=dracula' alt='' />
   </a>
   &nbsp;
   <a href='https://github.com/Boxode/Boxode'>
