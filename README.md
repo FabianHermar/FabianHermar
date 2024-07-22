@@ -1,6 +1,6 @@
 
  ### Working in new README design 🛠
- Stay tuned! 1
+ Stay tuned!
  
  <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a" />
 <!--
