@@ -14,7 +14,14 @@ I'm Fabian Herrera, a software developer based in Mexico. I develop digital prod
  <li>😄 Pronouns: He/Him</li>
 </ul>
 
-<img align='right' src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<section>
+ <h2>Statistics 📊</h2>
+   <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHermar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHermar"/>
+    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHermar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHermar"/>
+  </p>
+</section>
 
 <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a" />
 <!--
