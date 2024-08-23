@@ -1,7 +1,12 @@
+![Header Image](https://github.com/FabianHermar/FabianHermar/blob/main/assets/Github%20profile.png)
 
- ### Working in new README design 🛠
- Stay tuned!
- 
+### 
+
+<h3 align='center'>👋 Digital Nomad + Entrepreneur + Frontend Developer</h3>
+
+I'm Fabian Herrera, a software developer based in Mexico. I develop digital products that capture the imagination and elevate people's experience. I'm passionate about bringing products to life and enjoy sharing my insights with you. Feel free to explore my public repositories—I hope you find them helpful.
+
+
  <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a" />
 <!--
 
