@@ -6,13 +6,17 @@
 
 I'm Fabian Herrera, a software developer based in Mexico. I develop digital products that capture the imagination and elevate people's experience. I'm passionate about bringing products to life and enjoy sharing my insights with you. Feel free to explore my public repositories. I hope you find them helpful.
 
-- 🌱 I’m currently learning `.js`, `.jsx`, `.ts`, `.tsx`, `.astro`, `React Native`, etc.
-- 👯 I am interested in being part of new collaborative projects.
-- 💬 Ask me about product design, web development (React, JavaScript, etc).
-- 📫 How to reach me: [fabianh.me/contact](https://fabianh.me/contact)
-- 😄 Pronouns: He/Him
+<ul align='left'>
+ <li>🌱 I’m currently learning <code>.js</code>, <code>.jsx</code>, <code>.ts</code>, <code>.tsx</code>, <code>.astro</code>, <code>React Native</code>, etc.</li>
+ <li>👯 I am interested in being part of new collaborative projects.</li>
+ <li>💬 Ask me about product design, web development (React, JavaScript, etc).</li>
+ <li>📫 How to reach me: <a href='mailto:ctofabian@gmail.com'>ctofabian@gmail.com</a></li>
+ <li>😄 Pronouns: He/Him</li>
+</ul>
 
- <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a" />
+<img align='right' src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+
+<img height="25px" src="https://komarev.com/ghpvc/?username=FabianHermar&style=for-the-badge&color=bd925a" />
 <!--
 
 <img height='100em' src='https://raw.githubusercontent.com/FabianHermar/FabianHermar/main/assets/wave-top.png' />
