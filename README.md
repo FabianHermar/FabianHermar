@@ -17,9 +17,9 @@ I'm Fabian Herrera, a software developer based in Mexico. I develop digital prod
 <section>
  <h2>Statistics 📊</h2>
    <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabianHermar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHermar"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=FabianHermar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="FabianHermar"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHermar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHermar"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianHermar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="FabianHermar"/>
   </p>
 </section>
 
