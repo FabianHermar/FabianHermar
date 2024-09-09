@@ -1,4 +1,4 @@
-![Header Image](https://github.com/FabianHermar/FabianHermar/blob/main/assets/Github%20profile.png)1
+![Header Image](https://github.com/FabianHermar/FabianHermar/blob/main/assets/Github%20profile.png)
 
 ### 
 
