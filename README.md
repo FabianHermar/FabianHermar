@@ -2,7 +2,7 @@
 
 ### 
 
-<h3 align='center'>👋 Digital Nomad + Entrepreneur + Frontend Developer</h3>
+<h3 align='center'>👋 Digital Nomad + Entrepreneur + Frontend Developer</h3
 
 I'm Fabian Herrera, a software developer based in Mexico. I develop digital products that capture the imagination and elevate people's experience. I'm passionate about bringing products to life and enjoy sharing my insights with you. Feel free to explore my public repositories. I hope you find them helpful.
 
